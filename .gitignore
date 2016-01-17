@@ -1,3 +1,9 @@
+*~
+
+## Don't upload private data
+*.csv
+*.txt
+
 *.gem
 *.rbc
 /.config
